@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6256571321",
+    "project_id": "foodcoma-7ceb3",
+    "storage_bucket": "foodcoma-7ceb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6256571321:android:ef48f6b0cf60c615b8fc68",
+        "android_client_info": {
+          "package_name": "com.example.foodcoma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRVEvwGah6GxBcTF5tiBeE1ObvMVNpcAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
