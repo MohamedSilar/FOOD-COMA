@@ -53,7 +53,7 @@ To install and run this project locally, follow these steps:
 
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/jaithunshifaya/Food-Coma.git  
+   git clone https://github.com/MohamedSilar/FOOD-COMA/.git  
    cd Food-Coma  
    ```  
 
