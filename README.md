@@ -1,6 +1,6 @@
 
 
-# Food-Coma - A Food Order App 🍔🍕  
+# Food-Coma - A Food Order App 🍔 
 Welcome to the **Food-Coma** repository! This is an innovative Android application designed to simplify the process of ordering food, offering users a seamless interface to browse, select, and order delicious meals. With features like order tracking and customer reviews, it enhances the dining experience and ensures user satisfaction.  
 
 ---
